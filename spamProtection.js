@@ -16,7 +16,21 @@ const defaultBlacklist = [
     "Increase traffic", "Instant approval", "Instant profit", "No catch", "No hidden costs",
     "No hidden fees", "No obligation", "No purchase necessary", "No questions asked",
     "No strings attached", "Not junk", "Offshore account", "Potential earnings",
-    "Zero risk", "Additional income", "Affordable", "Apply online", "Billions"
+    "Zero risk", "Additional income", "Affordable", "Apply online", "Billions",
+    "Bonus", "Buy direct", "Cashback", "Certified", "Cents on the dollar", "Claim now",
+    "Clearance", "Cost", "Credit card offers", "Deal ending soon", "Double your",
+    "Earn", "Extra", "Fantastic", "For instant access", "Free access", "Free bonus",
+    "Free download", "Free DVD", "Free instant", "Free membership", "Free preview",
+    "Free quote", "Free trial", "Free video", "Free website", "Full refund",
+    "Get it now", "Giveaway", "Great deal", "Hidden", "Hurry", "Incredible deal",
+    "Investment", "Join millions", "Lowest price", "Luxurious", "Money back",
+    "Name brand", "Offer expires", "Once in a lifetime", "One time", "Order now",
+    "Orders shipped by", "Please read", "Price", "Promise you", "Pure profit",
+    "Recession", "Refund", "Register", "Risk-free", "Sale ends soon", "Save big money",
+    "Save up to", "Savings", "Score", "Special promotion", "Special offer", "Sponsor",
+    "Start now", "Submit", "Subscribe", "Take action", "The best rates", "This won’t last",
+    "Trial", "Unlimited", "Unsecured debt", "Unsecured loan", "Valuable", "Winner",
+    "Winning", "Won", "Work at home", "You are a winner", "whatsapp", "SEO", "backlinks", "sitemap", "sitemaps", "monthly reports"
 ];
 
 // Function to dynamically add blacklist words to the form
