@@ -30,7 +30,7 @@ const defaultBlacklist = [
     "Save up to", "Savings", "Score", "Special promotion", "Special offer", "Sponsor",
     "Start now", "Submit", "Subscribe", "Take action", "The best rates", "This won’t last",
     "Trial", "Unlimited", "Unsecured debt", "Unsecured loan", "Valuable", "Winner",
-    "Winning", "Won", "Work at home", "You are a winner"
+    "Winning", "Won", "Work at home", "You are a winner", "whatsapp", "SEO", "backlinks", "sitemap", "sitemaps", "monthly reports"
 ];
 
 // Function to dynamically add blacklist words to the form
