@@ -1,8 +1,8 @@
-Overview
+# Overview
 
 This repository provides a JavaScript-based solution that builds on the functionality of FormSubmit by adding more advanced security features, including enhanced spam protection and URL filtering mechanisms. These additional layers of security help prevent spam submissions and control the types of URLs that users can include in form inputs, ensuring your forms are both secure and clean.
 
-Features
+# Features
 
 1. Spam Word Blacklist
 Blocks form submissions containing specific spammy words or phrases. The blacklist is fully customizable and can be dynamically integrated into the form to meet your specific needs.
